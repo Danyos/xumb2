@@ -120,5 +120,22 @@ function num(arg,astichan=2){
 
 
 
-
-
+// let arr = [1, 5, -1, 7, -5, -4, 9, 8, 10, 2, -10]
+// let x = arr.reduce((previousValue, currentValue) =>{
+//     if(currentValue>0){
+//         previousValue[0]+=currentValue
+//         previousValue[1]++
+//
+//     }
+//     return previousValue
+// } ,[0,0])
+// console.log(x[0]/x[1])
+// let arr = [1, 5, -1, 7, -5, - 4, 9, 8, 17, -10]
+// let y = []
+// let z = []
+// let x = arr.filter((arg, index) => {
+//     if(arg>7){
+//         return arg
+//     }
+// })
+// console.log(x)
