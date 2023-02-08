@@ -85,6 +85,7 @@ let men=[
 
 
 //1. stanaq asy resultaty
+
 //{man:[2,4,6],
 // girl:[1,3,5]
 // }
