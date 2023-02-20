@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88788258-fe06-4bba-b87d-1bc1e2ece67d" name="Changes" comment="" />
+    <list default="true" id="88788258-fe06-4bba-b87d-1bc1e2ece67d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js-21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../js-21/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,7 +41,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/Shogh/Desktop/xumb2/js-22",
+    "last_opened_file_path": "C:/Users/Shogh/Desktop/xumb2/js-23",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,7 +62,8 @@
       <workItem from="1676054087505" duration="4048000" />
       <workItem from="1676099306033" duration="3771000" />
       <workItem from="1676279085333" duration="5172000" />
-      <workItem from="1676451940577" duration="22000" />
+      <workItem from="1676451985488" duration="4330000" />
+      <workItem from="1676626310879" duration="45000" />
     </task>
     <servers />
   </component>
@@ -74,16 +80,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/script.js</url>
-          <line>56</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
